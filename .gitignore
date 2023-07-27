@@ -1,0 +1,9 @@
+.DS_Store
+*/wandb/*
+*/nohup.out
+*.out
+/wandb/
+wandb/
+
+
+__pycache__/
